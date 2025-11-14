@@ -9,7 +9,7 @@ import Auth from './components/Auth';
 import { BookOpenIcon } from './components/icons/BookOpenIcon';
 import { ChatBubbleIcon } from './components/icons/ChatBubbleIcon';
 import { GeneralChatIcon } from './components/icons/GeneralChatIcon';
-import { LayoutDashboardIcon } from './components/icons/LayoutDashboardIcon.tsx';
+import { LayoutDashboardIcon } from './components/icons/LayoutDashboardIcon';
 import { getCurrentUser, logout } from './services/authService';
 
 // Define BeforeInstallPromptEvent interface as it's not in standard TS lib
